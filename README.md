@@ -1,5 +1,5 @@
 ## repositorio-de-aprendizado
-repositórios de acervo de conhecimentos adquiridos. 
+repositório para acervo de conhecimentos adquiridos. 
 
 #Inclusos:
 - Primeiros codigos em JavaScript;
